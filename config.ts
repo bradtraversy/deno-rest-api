@@ -1,7 +1,7 @@
 const dbCreds = {
-    user: "brad",
-    database: "denoapi",
-    password: "123456",
+    user: "",
+    database: "",
+    password: "",
     hostname: "localhost",
     port: 5432
 }
