@@ -1,12 +1,18 @@
 # Deno REST API
-> This is a simple REST API using Deno and Oak. It is part of my YouTube crash course. I will be adding database functionality and JWT to it in the near future
+
+> This is a REST API using Deno, Oak and PostgreSQL
+
+Be sure to install [https://www.postgresql.org/](postgreSQL) and edit the "config.ts" file with your own credentials
 
 ## Run
+
 ```
-deno run --allow-net server.ts
+# This project uses Denon
+deno start
 ```
 
 ## Routes
+
 ```
 GET      /api/v1/products
 GET      /api/v1/products/:id
