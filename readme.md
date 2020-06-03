@@ -4,8 +4,8 @@
 
 Be sure to install [https://www.postgresql.org/](postgreSQL) and edit the "config.ts" file with your own credentials
 
-[Deno Crash Course Video](https://www.youtube.com/watch?v=NHHhiqwcfRM)
-[Deno & PostgreSQL Video](https://youtu.be/KuaI6mphFNc)
+* [Deno Crash Course Video](https://www.youtube.com/watch?v=NHHhiqwcfRM)
+* [Deno & PostgreSQL Video](https://youtu.be/KuaI6mphFNc)
 
 ## Run
 
