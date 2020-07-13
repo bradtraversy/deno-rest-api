@@ -10,7 +10,7 @@ Be sure to install [https://www.postgresql.org/](postgreSQL) and edit the "confi
 ## Run
 
 ```
-# This project uses Denon
+# This project uses Deno
 deno start
 ```
 
